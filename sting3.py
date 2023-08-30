@@ -1,3 +1,4 @@
+#checking is rotation string or not 
 def rotation(s,v):
     if len(s) != len(v):
         return print('it is not a rotation string')
